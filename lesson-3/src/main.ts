@@ -1,5 +1,5 @@
 let bikes = ['harley davidson', 'hunter', 350];
-let mixedArr = ['drake', 21, 'Savage', false];   //doubt
+let mixedArr = ['drake', 21, 'Savage', false];
 
 bikes.push('Himalayan gt');
 mixedArr.unshift(true)
